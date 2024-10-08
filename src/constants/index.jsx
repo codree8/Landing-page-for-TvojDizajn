@@ -22,41 +22,42 @@ export const navItems = [
 export const testimonials = [
   {
     user: "John Doe",
-    company: "Stellar Solutions",
+    company: "Luxury Living Interiors",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "The VR experience completely transformed how we approached our interior design project. Seeing everything in a virtual space before implementation made decision-making so much easier. The team’s attention to detail was impeccable!",
   },
   {
-    user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    user: "Sarah Bennet",
+    company: "Innovative Spaces",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "Working with this interior design firm was truly groundbreaking. Their use of VR allowed us to visualize the final outcome and make changes on the spot. We are thrilled with the results!",
   },
   {
-    user: "David Johnson",
-    company: "Quantum Innovations",
+    user: "Paul Donaldson",
+    company: "Modern Elegance Homes",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "I was blown away by how realistic the VR mockups were! It felt like walking through my future home before it was even built. The design team is professional, innovative, and the results were beyond what we expected.",
   },
   {
-    user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    user: "William Harris",
+    company: "Urban Luxe Interiors",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "The virtual reality aspect took our interior design to the next level. Being able to 'walk through' our space before construction gave us the confidence to proceed. Their expertise and use of technology are unmatched.",
   },
   {
-    user: "Michael Wilson",
-    company: "Visionary Creations",
+    user: "James Evans",
+    company: "Visionary Designs",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "Thanks to their VR design service, we could visualize every corner of our office renovation. It was like taking a tour of the completed project before a single thing was built. They were professional, creative, and exceeded our expectations!",
   },
   {
-    user: "Emily Davis",
-    company: "Synergy Systems",
+    user: "Olivia Taylor",
+    company: "Studio Synergy",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "The team’s innovative use of VR in design made the entire process stress-free. We could easily make design adjustments on the go, and the end result was nothing short of spectacular. We’ll definitely be working with them again!",
   },
 ];
+
 
 export const features = [
   {
